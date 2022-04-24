@@ -1,0 +1,51 @@
+body{
+    padding:50px 100px;
+    background-color: rgb(198, 198, 198);
+    font-family: 'Oswald', sans-serif;
+    font-size: 1.5rem;
+}
+h1{
+    text-align: center;
+}
+h1{
+    border-radius: 10px;
+    background-color: rgb(53 134 165);
+    
+    color: white;
+    margin: auto;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding: 10px;
+    width: 99%;
+    
+}
+#container{
+    margin: auto;
+    width: 92%;
+    text-align: center;
+    background-color: rgb(255, 255, 255);
+    padding: 50px;
+    border-radius: 10px;
+}
+.input-div{
+    display: inline-block;
+}
+.inp{
+    background-color: rgb(53 134 165);
+    color: white;
+    border-radius: 10px;
+    padding: 5px 10px;
+    margin: 10px;
+    font-size: 30px;
+    font-weight: bold;
+    text-align: center;
+}
+label{
+    font-size: 22px;
+}
+pre{
+    font-size: 20px;
+    margin: 50px 0px;
+    font-size: 2rem;
+    font-family: 'Oswald', sans-serif;
+}
